@@ -1,6 +1,6 @@
 # Hey 👋, I'm Si Moon
 
-I'm a CS + Stats @ UBC passionate about building AI agents and full-stack systems that actually do something. Lately, I've been deeply invested in the intersection of agents, backend systems, and making UIs that feel right. That's led me to explore multi-agent orchestration and self-hosting infrastructure on my Raspberry Pi. One of my goals for 2026 is to code everyday so be sure to check out my GitHub! :D
+I'm a CS + Stats @ UBC passionate about building AI agents and full-stack systems that actually do something. Lately, I've been deeply invested in the intersection of agents, backend systems, and machine learning. That's led me to explore multi-agent orchestration and self-hosting infrastructure on my Raspberry Pi. One of my goals for 2026 is to code everyday so be sure to check out my GitHub! :D
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-simoonsong.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://simoonsong.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simoonsong-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoonsong)
